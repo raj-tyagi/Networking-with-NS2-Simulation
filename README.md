@@ -44,8 +44,8 @@ To run NS2 on your Linux system, follow these steps:
 
 ## Response Outputs
 <p align="center">
-  <img src="https://github.com/raj-tyagi/Networking-with-NS2-Simulation/assets/110656539/2635940f-d8b7-4285-b5cf-9d2c26a05d40" alt="Screenshot 1" width="45%">
-  <img src="https://github.com/raj-tyagi/Networking-with-NS2-Simulation/assets/110656539/7624b3ca-3716-49f5-9844-e528811112f0" alt="Screenshot 2" width="45%">
+  <img src="https://github.com/raj-tyagi/Networking-with-NS2-Simulation/assets/110656539/2635940f-d8b7-4285-b5cf-9d2c26a05d40" alt="Screenshot 1" width="40%">
+  <img src="https://github.com/raj-tyagi/Networking-with-NS2-Simulation/assets/110656539/7624b3ca-3716-49f5-9844-e528811112f0" alt="Screenshot 2" width="40%">
 </p>
 
 
