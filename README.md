@@ -37,9 +37,16 @@ To run NS2 on your Linux system, follow these steps:
 
 
 2. **Install commands for NS2 (In Linux):**
-   - After installation, ensure that NS2 is properly configured and enabled on your system. You may need to set environment variables or make additional configurations depending on your system setup.
+   - sudo apt-get update
+   - sudo apt-get install ns2
+   - sudo apt-get install nam
+   - sudo apt-get install tcl
 
 ## Response Outputs
+![Screenshot 2024-04-26 095146](https://github.com/raj-tyagi/Networking-with-NS2-Simulation/assets/110656539/2635940f-d8b7-4285-b5cf-9d2c26a05d40)
+![Screenshot 2024-04-26 095310](https://github.com/raj-tyagi/Networking-with-NS2-Simulation/assets/110656539/7624b3ca-3716-49f5-9844-e528811112f0)
+
+
 
 ## Usage
 
