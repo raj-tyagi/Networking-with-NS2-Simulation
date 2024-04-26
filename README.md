@@ -43,8 +43,10 @@ To run NS2 on your Linux system, follow these steps:
    - sudo apt-get install tcl
 
 ## Response Outputs
-![Screenshot 2024-04-26 095146](https://github.com/raj-tyagi/Networking-with-NS2-Simulation/assets/110656539/2635940f-d8b7-4285-b5cf-9d2c26a05d40)
-![Screenshot 2024-04-26 095310](https://github.com/raj-tyagi/Networking-with-NS2-Simulation/assets/110656539/7624b3ca-3716-49f5-9844-e528811112f0)
+<div class="screenshot-container">
+  <img src="https://github.com/raj-tyagi/Networking-with-NS2-Simulation/assets/110656539/2635940f-d8b7-4285-b5cf-9d2c26a05d40" alt="Screenshot 1">
+  <img src="https://github.com/raj-tyagi/Networking-with-NS2-Simulation/assets/110656539/7624b3ca-3716-49f5-9844-e528811112f0" alt="Screenshot 2">
+</div>
 
 
 
